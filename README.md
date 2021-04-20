@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nicolask92
+- 👀 I’m interested in programing
+- 🌱 I’m currently learning groovy, javascript, expressjs
+- 💞️ I’m looking to collaborate on market bots
+- 📫 niko.klos@gmail.com
