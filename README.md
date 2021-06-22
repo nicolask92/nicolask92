@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning groovy, javascript, expressjs
 - 💞️ I’m looking to collaborate on market bots
 - 📫 niko.klos@gmail.com
+- https://www.linkedin.com/in/nicolask92/
