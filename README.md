@@ -2,5 +2,5 @@
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning Spring Boot with groovy, java, javascript, expressjs
 - 💞️ I’m looking to collaborate on market bots
-- 📫 niko.klos@gmail.com
+- 📫 nico.klos92@gmail.com
 - https://www.linkedin.com/in/nicolask92/
